@@ -14,6 +14,9 @@ import Footer from "@/components/a11y-errors/browser/Footer";
 export default function MarketingPageIntegration() {
   const defaultTheme = createTheme({ palette: { mode: "light" } });
 
+  // test
+  // test again
+
   return (
     <ThemeProvider theme={defaultTheme}>
       <CssBaseline enableColorScheme />
